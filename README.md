@@ -69,7 +69,7 @@ Maybe. Ask yourself the following questions:
 1. Have I traded any beehives?
 	1. If no, You're 100% safe
 2. Did those beehives have bees in them?
-	1. If so, i'm 99% sure you're safe
+	1. If no, i'm 99% sure you're safe
 3. Were those bees bred or generated at (or near) a sensitive location?
 	1. If yes, that location is compromised
 4. Where was the last place those bees were let out and might have seen a flower?

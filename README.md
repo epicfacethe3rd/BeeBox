@@ -80,7 +80,8 @@ I mean, yeah. Kinda is lmao
 ## Will Mojang fix this?
 Probably not. For one this is a very niche issue. It has 100% existed since 1.16 when bees were introduced, and seeming hasn't been seen as a problem since then. It's likely they don't see it as a real issue as they are not worried about the anarchy community.
 ## Will PaperMC fix this??
-Maybe? They're certainly the best equipped. That said, this is, again, a very niche issue, and I don't see it at the top of their priority list. After all, you kinda have to... yknow... give the attacker a beehive with bees in it.
+~~Maybe? They're certainly the best equipped. That said, this is, again, a very niche issue, and I don't see it at the top of their priority list. After all, you kinda have to... yknow... give the attacker a beehive with bees in it.~~
+Update: another player has told me that this is a wontfix from PaperMC, so this almost certainly will not be fixed by them.
 ## Will Phantom fix this???
 Possibly. I'm not sure of exactly how to do so, but feasibly you could hide all sensitive NBT data from the minecraft client and things would still be completely fine. That said knowing Phantom, its likely he would break something in the process, and i would rather not him try. Just don't trade beehives with bees in them lmao.
 ## What NBT data should I look for?
@@ -215,6 +216,6 @@ Yoko99 for pointing this out to the community
 
 PhantomCaptain for running my personal minecraft addition and ruining my life by convincing me to mine thousands on thousands of blocks of cobblestone because why not
 
-All the people who were hit by this exploit (Does this really qualify as an exploit? its arguably built into the game and published their experiences for us to learn from. RIP to your stashes and builds, HMU if you need anything and I'll do my best to help you out.
+All the people who were hit by this exploit (Does this really qualify as an exploit? its arguably built into the game) and published their experiences for us to learn from. RIP to your stashes and builds, HMU if you need anything and I'll do my best to help you out.
 
 Yes, Cuboyd asked to use this stuff in his video
